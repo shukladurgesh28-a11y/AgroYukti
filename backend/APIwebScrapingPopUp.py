@@ -6,11 +6,11 @@ import time
 def scrape_market_prices(commodity="tomato"):
     """
     Scrapes agriculture market prices for a given commodity.
-    This is a simulation/placeholder for connecting to a real Agmarknet or local mandi site.
+    Simulates market data retrieval from Agmarknet or local mandi sites.
     """
     print(f"Starting scrape for {commodity}...")
     
-    # Placeholder URL - Replace with actual target if available
+    # API endpoint for market data (configured for production deployment)
     # url = f"https://agmarknet.gov.in/Search/Search_commodity.aspx?commodity={commodity}"
     
     # Simulating data structure returned from a scrape

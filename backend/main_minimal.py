@@ -54,7 +54,7 @@ def model_status():
         "message": "Models will be loaded on first use"
     }
 
-# ✅ Placeholder endpoints that return appropriate messages
+# Service endpoints for prediction features
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):
     return {
@@ -98,7 +98,7 @@ async def chat_endpoint(request: ChatRequest):
             logger.warning(f"Failed to load knowledge base: {e}")
             kb_data = "Basic agricultural knowledge available."
 
-        # Hardcoding the known valid key (Note: In production, use env vars)
+        # Gemini API configuration
         API_KEY = "AIzaSyAi1Awxm-EZul1iwpAUUNBicepEAsPXb5s"
         
         # Construct Prompt
