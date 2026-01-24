@@ -1,0 +1,23 @@
+{
+    "app_title": "AgroYukti",
+    "nav": {
+        "home": "Home",
+        "dashboard": "Dashboard",
+        "services": "Services",
+        "news": "News",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Empowering Agriculture with AI & Blockchain",
+        "subtitle": "Smart solutions for modern farming. Predict prices, detect diseases, and manage your farm efficiently.",
+        "get_started": "Get Started",
+        "learn_more": "Learn More"
+    },
+    "dashboard": {
+        "title": "Farmer Dashboard",
+        "weather": "Weather Forecast",
+        "market": "Market Prices",
+        "disease": "Disease Detection",
+        "soil": "Soil Health"
+    }
+}

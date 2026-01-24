@@ -1,0 +1,29 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Build
+build/
+dist/
+
+# ML / Data (DO NOT PUSH)
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+*.csv
+*.zip
+*.tar
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db

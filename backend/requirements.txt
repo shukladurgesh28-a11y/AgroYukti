@@ -1,0 +1,22 @@
+# Core Python packages
+numpy
+pandas
+joblib
+scikit-learn
+matplotlib
+
+# Computer Vision packages
+Pillow
+# tensorflow # Incompatible with Python 3.14
+opencv-python
+
+# ML Models
+xgboost
+
+# FastAPI and web server packages
+fastapi
+uvicorn[standard]
+python-multipart
+
+# HTTP requests
+requests

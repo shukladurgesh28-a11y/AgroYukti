@@ -1,0 +1,121 @@
+{
+    "soils": [
+        {
+            "type": "Alluvial Soil",
+            "characteristics": "Fertile, rich in potash and lime, formed by river deposits.",
+            "suitable_crops": [
+                "Rice",
+                "Wheat",
+                "Sugarcane",
+                "Cotton",
+                "Jute",
+                "Vegetables"
+            ],
+            "regions": "Indo-Gangetic plains, deltas of eastern coast"
+        },
+        {
+            "type": "Black Soil (Regur)",
+            "characteristics": "Clayey, retains moisture well, rich in calcium carbonate and potash.",
+            "suitable_crops": [
+                "Cotton",
+                "Sugarcane",
+                "Wheat",
+                "Millets",
+                "Oilseeds"
+            ],
+            "regions": "Deccan Plateau, Maharashtra, Gujarat, Madhya Pradesh"
+        },
+        {
+            "type": "Red Soil",
+            "characteristics": "Porous, rich in iron oxide (red color), generally low in nitrogen and phosphorous.",
+            "suitable_crops": [
+                "Groundnut",
+                "Millets",
+                "Pulses",
+                "Cotton",
+                "Potato"
+            ],
+            "regions": "Tamil Nadu, Karnataka, Andhra Pradesh, Odisha"
+        },
+        {
+            "type": "Laterite Soil",
+            "characteristics": "Acidic, low in organic matter, suitable for plantation crops.",
+            "suitable_crops": [
+                "Tea",
+                "Coffee",
+                "Rubber",
+                "Cashew",
+                "Coconut"
+            ],
+            "regions": "Western Ghats, Eastern Ghats, North-East India"
+        }
+    ],
+    "crops": [
+        {
+            "name": "Rice (Paddy)",
+            "season": "Kharif (Monsoon)",
+            "ideal_soil": "Clayey or Loamy Alluvial",
+            "water_needs": "High",
+            "diseases": [
+                {
+                    "name": "Blast",
+                    "symptoms": "Spindle-shaped spots on leaves",
+                    "remedy": "Spray Tricyclazole 75 WP"
+                },
+                {
+                    "name": "Bacterial Leaf Blight",
+                    "symptoms": "Water-soaked streaks on leaf edges",
+                    "remedy": "Avoid excessive nitrogen, improve drainage"
+                }
+            ]
+        },
+        {
+            "name": "Wheat",
+            "season": "Rabi (Winter)",
+            "ideal_soil": "Well-drained Loam or Clay Loam",
+            "water_needs": "Moderate",
+            "diseases": [
+                {
+                    "name": "Rust (Yellow/Brown)",
+                    "symptoms": "Yellow or brown pustules on leaves",
+                    "remedy": "Grow resistant varieties like HD 2967, spray Propiconazole"
+                },
+                {
+                    "name": "Loose Smut",
+                    "symptoms": "Black powdery mass replacing grain",
+                    "remedy": "Seed treatment with Carboxin"
+                }
+            ]
+        },
+        {
+            "name": "Cotton",
+            "season": "Kharif",
+            "ideal_soil": "Black Soil (Regur)",
+            "water_needs": "Moderate to Low",
+            "diseases": [
+                {
+                    "name": "Pink Bollworm",
+                    "symptoms": "Larvae bore into bolls, staining lint",
+                    "remedy": "Use pheromone traps, spray Emamectin Benzoate"
+                },
+                {
+                    "name": "Leaf Curl Virus",
+                    "symptoms": "Curling and thickening of leaves",
+                    "remedy": "Control whitefly vectors using Neem oil"
+                }
+            ]
+        }
+    ],
+    "general_advice": {
+        "fertilizers": "Use NPK in appropriate ratios based on soil tests. Organic manure is recommended for long-term health.",
+        "irrigation": "Drip irrigation is efficient for water-scarce regions. Flood irrigation is common for rice.",
+        "pesticides": "Always wear protective gear while spraying. Follow safety periods before harvesting."
+    },
+    "market_insights": {
+        "Banana": "Market analysis for Banana: Average modal price is \u20b91250/Quintal. Prices fluctuate between \u20b9900 and \u20b96000. Recent trading price: \u20b92000.",
+        "Carrot": "Market analysis for Carrot: Average modal price is \u20b91819/Quintal. Prices fluctuate between \u20b91150 and \u20b95500. Recent trading price: \u20b91500.",
+        "Onion": "Market analysis for Onion: Average modal price is \u20b92478/Quintal. Prices fluctuate between \u20b9900 and \u20b94850. Recent trading price: \u20b93250.",
+        "Tomato": "Market analysis for Tomato: Average modal price is \u20b91822/Quintal. Prices fluctuate between \u20b9700 and \u20b910500. Recent trading price: \u20b91300.",
+        "Wheat": "Market analysis for Wheat: Average modal price is \u20b94450/Quintal. Prices fluctuate between \u20b93600 and \u20b95000. Recent trading price: \u20b93600."
+    }
+}
