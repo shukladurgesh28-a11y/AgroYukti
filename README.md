@@ -82,13 +82,9 @@ Check the repository and explore more:
 ---
 ![Screenshot 2025-03-14 173845](https://github.com/user-attachments/assets/8ceb7a78-cc62-46e4-af5a-37f3de5fec85)
 
-![Screenshot 2025-03-14 173013](https://github.com/user-attachments/assets/829c1008-fc51-471f-8f3a-30bf3865ecff)
-
 ![Screenshot 2025-03-14 173025](https://github.com/user-attachments/assets/8eeff232-9309-4bc3-8979-37ddc985283d)
 
 ![Screenshot 2025-03-14 173037](https://github.com/user-attachments/assets/64f112cc-7b09-455c-a496-5ae90efa9690)
-
-![Screenshot 2025-03-14 173054](https://github.com/user-attachments/assets/316b6e62-7cc5-4424-9001-08a68494a020)
 
 ![Screenshot 2025-03-14 173118](https://github.com/user-attachments/assets/6bf31ecc-fb62-4256-b808-529e372c16ce)
 
@@ -147,12 +143,4 @@ Check the repository and explore more:
 ![Screenshot 2025-03-14 174123](https://github.com/user-attachments/assets/9778c7fa-0df3-4ba0-9e66-c21f37f0a505)
 
 ![Screenshot 2025-03-14 173143](https://github.com/user-attachments/assets/bf224190-39f5-4e77-8b89-06147ab5320e)
-
-![Screenshot 2025-03-14 174044](https://github.com/user-attachments/assets/254c2953-9804-4d8c-ae3d-e4a21d7128f9)
-
-![Screenshot 2025-03-14 174051](https://github.com/user-attachments/assets/81c04ce2-1aa8-4da0-a65d-0fa6514adca3)
-
-![Screenshot 2025-03-14 174059](https://github.com/user-attachments/assets/215e09b2-d517-4caa-9e84-2f13320d88a8)
-
-![Screenshot 2025-03-14 174106](https://github.com/user-attachments/assets/6ffbf2b1-69e6-4202-b88d-7b0e2282ba39)
 
